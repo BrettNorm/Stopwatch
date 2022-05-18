@@ -14,7 +14,7 @@ Create a simple stopwatch app using SwiftUI. Your application will consist of th
 
     - The speed of the clock should match ACTUAL time.
 
-    -Your clock will be driven by a ViewModel and changes will be Published to the views that need to observe the changes.
+    - Your clock will be driven by a ViewModel and changes will be Published to the views that need to observe the changes.
 
 2. Your screen will only have two buttons labeled as: Start/Stop, and Lap/Reset 
 
